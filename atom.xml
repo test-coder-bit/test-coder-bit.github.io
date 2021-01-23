@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://g.star.com</id>
+    <id>https://star.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-23T04:16:24.636Z</updated>
+    <updated>2021-01-23T04:20:26.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://g.star.com"/>
-    <link rel="self" href="https://g.star.com/atom.xml"/>
+    <link rel="alternate" href="https://star.github.io"/>
+    <link rel="self" href="https://star.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://g.star.com/images/avatar.png</logo>
-    <icon>https://g.star.com/favicon.ico</icon>
+    <logo>https://star.github.io/images/avatar.png</logo>
+    <icon>https://star.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://g.star.com/post/hello-gridea/</id>
-        <link href="https://g.star.com/post/hello-gridea/">
+        <id>https://star.github.io/post/hello-gridea/</id>
+        <link href="https://star.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
